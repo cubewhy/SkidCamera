@@ -4,8 +4,8 @@ A camera application designed for skid homework platform that contains ergonomic
 
 ## Usage
 
-- Download KDE Connect
-- Install the SkidCamera
+- Download [KDE Connect](https://kdeconnect.kde.org/download.html) on both your phone/tablet and your computer
+- Download & Install the SkidCamera
 - Connect your phone/tablet to your computer
 - Happy skidding!
 
